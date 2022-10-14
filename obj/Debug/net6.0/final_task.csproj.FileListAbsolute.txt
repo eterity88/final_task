@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\final_task\bin\Debug\net6.0\final_task.exe
+C:\Users\Ирина\Desktop\final_task\bin\Debug\net6.0\final_task.deps.json
+C:\Users\Ирина\Desktop\final_task\bin\Debug\net6.0\final_task.runtimeconfig.json
+C:\Users\Ирина\Desktop\final_task\bin\Debug\net6.0\final_task.dll
+C:\Users\Ирина\Desktop\final_task\bin\Debug\net6.0\final_task.pdb
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.dll
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\refint\final_task.dll
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.pdb
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\final_task.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\final_task\obj\Debug\net6.0\ref\final_task.dll
